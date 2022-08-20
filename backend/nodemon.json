@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER": "Ali",
+        "DB_PASSWORD": "151500",
+        "GOOGLE_API_KEY": "AIzaSyCslt18LEnxkBwfpEtwTbWGvLMtXQGZ-DA",
+        "JWT_PRIVTEKEY": "supersecret"
+    }
+}
